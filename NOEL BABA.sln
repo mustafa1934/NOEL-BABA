@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOEL BABA", "NOEL BABA\NOEL BABA.csproj", "{12B93607-5A6A-4ED9-9CCE-0D3015CE59AF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Yer İstasyonu3", "Yer İstasyonu3\Yer İstasyonu3.vdproj", "{CA1ACE9D-800F-45C6-A880-3E3D0DEB43FC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{9E96EC3C-A262-488E-A48C-451EE21D5DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B93607-5A6A-4ED9-9CCE-0D3015CE59AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B93607-5A6A-4ED9-9CCE-0D3015CE59AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B93607-5A6A-4ED9-9CCE-0D3015CE59AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B93607-5A6A-4ED9-9CCE-0D3015CE59AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1ACE9D-800F-45C6-A880-3E3D0DEB43FC}.Debug|Any CPU.ActiveCfg = Debug
+		{CA1ACE9D-800F-45C6-A880-3E3D0DEB43FC}.Release|Any CPU.ActiveCfg = Release
+		{9E96EC3C-A262-488E-A48C-451EE21D5DFA}.Debug|Any CPU.ActiveCfg = Debug
+		{9E96EC3C-A262-488E-A48C-451EE21D5DFA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28A5F04B-623A-4110-9CB5-04132D07D367}
+	EndGlobalSection
+EndGlobal
